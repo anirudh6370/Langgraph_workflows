@@ -1,0 +1,10 @@
+langgraph
+langgraph-checkpoint-sqlite
+langchain
+langchain-groq
+langchain-community
+deepagents
+sqlalchemy
+streamlit
+python-dotenv
+networkx

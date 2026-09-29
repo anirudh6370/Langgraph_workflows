@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+*.sqlite
+*.db-journal
+memory.db
+checkpoints.db
+.env
+myenv/
+Scripts/
+pyvenv.cfg
+err.txt
